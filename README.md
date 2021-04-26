@@ -1,4 +1,4 @@
-#"Tests author with python and java knowledge for Yandex.Practicum" test project
+# "Tests author with python and java knowledge for Yandex.Practicum" test project
 
 ##### How to install and use this module
 
