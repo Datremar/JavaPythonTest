@@ -17,5 +17,5 @@
 
 ##### Warning:
 
-- Do not rename variables "n" and "arr"
+- Make sure you use variables' names "n" for amount of numbers and "arr" for array
 - Do not submit "cheesy solutions". We will know :)
